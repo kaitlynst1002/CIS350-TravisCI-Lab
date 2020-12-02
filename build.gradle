@@ -1,4 +1,4 @@
-setlugins {
+setplugins {
     id 'java'
 }
 
