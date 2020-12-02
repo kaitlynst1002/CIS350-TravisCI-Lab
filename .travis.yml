@@ -1,6 +1,6 @@
 
 language: java 
 jdk:
-    -open1.8
+    -openjdk1.8
 
 
