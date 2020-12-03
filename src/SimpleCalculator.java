@@ -15,6 +15,11 @@ public class SimpleCalculator {
         return a / b;
     }
 
+    public int cube(int a){ return a * a * a; }
+
+    public int square(int a){ return a * a; }
+
+
     public static final void main(String[] args) {
         System.out.println("Hey there CIS350.");
     }
